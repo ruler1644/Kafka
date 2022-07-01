@@ -11,7 +11,7 @@
         <dependency>
             <groupId>org.apache.kafka</groupId>
             <artifactId>kafka-clients</artifactId>
-            <version>0.11.0.0</version>
+            <version>0.11.0.2</version>
         </dependency>
 
         <!-- flume拦截器，配合kafka Sink，使用一个channel将Event发往不同Topic  -->
